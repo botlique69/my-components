@@ -1,0 +1,2 @@
+# my-components
+rögzített componensek
